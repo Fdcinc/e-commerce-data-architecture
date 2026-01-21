@@ -6,7 +6,7 @@ Architecting a database isn't just about creating tables; it’s about ensuring 
 
 ## 🏆 Certifications
 <a href="https://www.credly.com/badges/ca32b18d-c708-4214-a523-9dbb7b925d55">
-  <img src="https://images.credly.com/size/340x340/images/651336a5-559d-476c-941e-6e42b8e3923c/mongo_db_associate_developer_2024.png" width="150" height="150" alt="MongoDB Associate Developer Badge">
+  <img src="https://images.credly.com/size/340x340/images/234edfc5-0177-46e7-a61a-071f060af2f6/blob" width="150" height="150" alt="MongoDB Associate Developer Badge">
 </a>
 
 ### 🚀 Featured Project: E-Commerce Architecture
